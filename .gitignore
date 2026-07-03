@@ -4,3 +4,6 @@ obj/
 riderModule.iml
 /_ReSharper.Caches/
 .idea/
+events.db*
+ClientApp/node_modules/
+ClientApp/dist/
